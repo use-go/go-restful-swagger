@@ -1,4 +1,4 @@
-# go-restful-swagger12
+# go-restful-swagger
 
 [![Build Status](https://travis-ci.org/emicklei/go-restful-swagger12.png)](https://travis-ci.org/emicklei/go-restful-swagger12)
 [![GoDoc](https://godoc.org/github.com/emicklei/go-restful-swagger12?status.svg)](https://godoc.org/github.com/emicklei/go-restful-swagger12)
@@ -6,9 +6,9 @@
 How to use Swagger UI with go-restful
 =
 
-Get the Swagger UI sources (version 1.2 only)
+Get the Swagger UI sources
 
-	git clone https://github.com/wordnik/swagger-ui.git
+	git clone https://github.com/swagger-api/swagger-ui.git
 	
 The project contains a "dist" folder.
 Its contents has all the Swagger UI files you need.
